@@ -1,7 +1,7 @@
-# Messy Life - Mess Management App
+# Mess-Mate: Mess Management App
 
 ## Overview
-Messy Life is an Android application designed to simplify mess (shared accommodation) management. The app helps users track meals, expenses, and deposits for members in a mess or shared living arrangement. It provides a centralized platform for mess managers and members to monitor financial transactions and meal counts.
+Mess-Mate is an Android application designed to simplify mess (shared accommodation) management. The app helps users track meals, expenses, and deposits for members in a mess or shared living arrangement. It provides a centralized platform for mess managers and members to monitor financial transactions and meal counts.
 
 ## Features
 - **User Authentication**: Secure sign-up and login functionality using Firebase Authentication.
@@ -21,7 +21,7 @@ Messy Life is an Android application designed to simplify mess (shared accommoda
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Messy-Life.git
+   git clone https://github.com/Shaddy007/Mess-mate.git
    ```
 2. Open the project in Android Studio.
 3. Connect your Firebase project by adding your `google-services.json` file to the `app` directory.
